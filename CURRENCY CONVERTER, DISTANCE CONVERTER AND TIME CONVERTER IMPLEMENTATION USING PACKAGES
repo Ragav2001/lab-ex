@@ -244,3 +244,27 @@ while(ch==1);
 }
 }
 output:
+1.PROGRAMMER 2.ASSISTANT PROFESSOR 3.ASSOCIATE PROFESSOR 4.PROFESSOR
+Enter Your Choice: 2
+Enter Name of the Employee: Arun K
+Enter Mail id: arun007@gmail.com
+Enter Address of the Employee: 12, Anna Nagar, Chennai-65
+Enter employee id: 5002
+Enter Mobile Number: 9876543210
+Enter basic pay : 20000
+Employee Name: Arun K
+Employee id : 5002
+Mail id : arun007@gmail.com
+Address: 12, Anna Nagar, Chennai-65
+Mobile Number: 9876543210
+***********************************
+PAY SLIP FOR ASSISTANT PROFESSOR
+***********************************
+Basic Pay:Rs. 20000.0
+DA:Rs. 19400.0
+HRA:Rs. 2000.0
+PF:Rs. 2400.0
+CLUB:Rs. 2000.0
+GROSS PAY:Rs. 41400.0
+NET PAY:Rs. 37000.0
+Please enter 0 to quit and 1 to continue: 0
